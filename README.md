@@ -5,7 +5,7 @@ you ever been bored of looking like a cop or looking like you was in military  t
 well weve got you covered, we have implemented and shared for completely free and open source, as you can see a 1 handed run animation for all you hoodles, ENJOY!
 
 
-# My FiveM Server: https://discord.gg/2H5SfJtxzh
+# My FiveM Server: https://discord.gg/N7KqW82zEF
 
 
 # Todo 
