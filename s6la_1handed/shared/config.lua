@@ -1,5 +1,5 @@
 Config = {}
-
+-- add all ya weapons that you want to have the animation here, we added this so shit like snowballs dont have it for example ykwim.
 Config.supported_weapons = {
     'WEAPON_PISTOL',
     'WEAPON_PISTOL_MK2',
@@ -53,4 +53,5 @@ Config.supported_weapons = {
     'WEAPON_FNX45',
     'WEAPON_MODIFIEDDRAC'
 }
+
 
