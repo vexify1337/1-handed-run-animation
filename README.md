@@ -6,3 +6,7 @@ well weve got you covered, we have implemented and shared for completely free an
 
 
 # My FiveM Server: https://discord.gg/2H5SfJtxzh
+
+
+# Todo 
+- Server sided syncing 
